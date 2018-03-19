@@ -1,0 +1,32 @@
+root@sample-VirtualBox:~/mycode# history
+    1  apt-get install git
+    2  which git
+    3  mkdir mycode
+    4  ls
+    5  cd mycode/
+    6  pwd
+    7  touch file1.txt
+    8  touch file2.txt file3.txt
+    9  ls
+   10  git init
+   11  ls -la
+   12  git config --global user.name "ashu"
+   13  git config --global user.email "ashu0075"
+   14  git status
+   15  git add *
+   16  git status
+   17  nano file1.txt 
+   18  cat file1.txt 
+   19  git status
+   20  git add *
+   21  git status
+   22  git commit -m "first'
+   23  git commit -m "first"
+   24  git status
+   25  git
+   26  git remote add origin https://github.com/ashu0075/gitdemo.git
+   27  git push origin master
+   28  history
+root@sample-VirtualBox:~/mycode# ^C
+
+
